@@ -1,0 +1,8 @@
+7
+63C:\Users\hogar.000\Desktop\bootcamp-java-hugobruno\modulos\dist132778359640762965 1
+69C:\Users\hogar.000\Desktop\bootcamp-java-hugobruno\modulos\index.html132778358730573464 0
+66C:\Users\hogar.000\Desktop\bootcamp-java-hugobruno\modulos\main.js132778358208640607 0
+74C:\Users\hogar.000\Desktop\bootcamp-java-hugobruno\modulos\dist\index.html132778358794493462 0
+73C:\Users\hogar.000\Desktop\bootcamp-java-hugobruno\modulos\operaciones.js132778359607303090 0
+85C:\Users\hogar.000\Desktop\bootcamp-java-hugobruno\modulos\dist\index.6b9ca3e8.js.map132778359640173072 0
+81C:\Users\hogar.000\Desktop\bootcamp-java-hugobruno\modulos\dist\index.6b9ca3e8.js132778359639883044 0
